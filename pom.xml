@@ -56,7 +56,7 @@
   </dependencies>
 
   <build>
-    <finalName>khavish</finalName>
+    <finalName>chamada</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
