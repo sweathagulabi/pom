@@ -56,7 +56,7 @@
   </dependencies>
 
   <build>
-    <finalName>chamada</finalName>
+    <finalName>happy</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
