@@ -11,7 +11,7 @@ pipeline{
 
 	stage('testing'){
 	          steps{
-		      withMaven(maven : 'maven_3_5-3'){
+		      withMaven(maven : 'maven_3_5_3'){
 		             sh 'mvn mvn test'
 			     }
 			     }
